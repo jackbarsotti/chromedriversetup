@@ -7,4 +7,4 @@ public with sharing class myclass {
 		return '1.0.0';
 	}
 }
-//comment
+//coment
